@@ -1,0 +1,10 @@
+{
+    "name": "wilder/mini-projet",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+            
+        }
+    },
+    "require": {}
+}
